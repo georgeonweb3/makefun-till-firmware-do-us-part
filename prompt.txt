@@ -1,0 +1,1 @@
+Enter the make.fun competition 'Till Firmware Do Us Part' (u-azazex-till-firmware-do-us-part-32172929): write one line under 200 characters per the judge brief, as a Python program (main.py) that writes the line to /output/entry.txt. Build it to win: study the field, draft 6 candidates from 4 angles, run a blind pairwise tournament, build the tournament winner.
